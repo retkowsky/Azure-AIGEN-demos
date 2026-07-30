@@ -115,18 +115,20 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 **AutoGen series**
 
+📖 [AutoGen README](https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/readme.MD) – Overview of the AutoGen ecosystem
+
 | Item | Description | Link |
 | --- | --- | --- |
-| 🔥 AutoGen – Settings | Configuration patterns and best practices for AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Introduction | Conceptual and architectural introduction to AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Simple agent for financial analysis | Scenario using AutoGen agents for financial data analysis. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Azure AI Agent integration | Integration of AutoGen with Azure AI Agent Service. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Chatbot | Chat‑oriented agent implementation with AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Enabling LLM‑powered agents to cooperate | Coordinating multiple agents collaboratively. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Multi‑agents | Multi‑agent orchestration patterns. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Multi‑agent with image generation | Multi‑agent workflows integrating image generation. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Human interaction | Human‑in‑the‑loop interactions within AutoGen flows. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
-| 🔥 AutoGen – Multimodal | Multimodal scenarios (text, image, etc.) with AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen |
+| 🔥 AutoGen – Settings | Configuration patterns and best practices for AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/0%20AutoGen%20-%20Settings.ipynb |
+| 🔥 AutoGen – Introduction | Conceptual and architectural introduction to AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/1%20AutoGen%20-%20Introduction.ipynb |
+| 🔥 AutoGen – Simple agent for financial analysis | Scenario using AutoGen agents for financial data analysis. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/2%20AutoGen%20-%20Simple%20agent%20for%20financial%20analysis.ipynb |
+| 🔥 AutoGen – Azure AI Agent integration | Integration of AutoGen with Azure AI Agent Service. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/3%20Autogen%20-%20Azure%20AI%20Agent%20integration.ipynb |
+| 🔥 AutoGen – Chatbot | Chat‑oriented agent implementation with AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/4%20AutoGen%20-%20Chatbot.ipynb |
+| 🔥 AutoGen – Enabling LLM‑powered agents to cooperate | Coordinating multiple agents collaboratively. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/5%20AutoGen%20-%20Enabling%20LLM-powered%20agents%20to%20cooperate.ipynb |
+| 🔥 AutoGen – Multi‑agents | Multi‑agent orchestration patterns. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/6%20AutoGen%20-%20Multi%20agents.ipynb |
+| 🔥 AutoGen – Multi‑agent with image generation | Multi‑agent workflows integrating image generation. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/7%20Autogen%20-%20Multi%20agent%20with%20image%20generation.ipynb |
+| 🔥 AutoGen – Human interaction | Human‑in‑the‑loop interactions within AutoGen flows. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/8%20AutoGen%20-%20Human%20interaction.ipynb |
+| 🔥 AutoGen – Multimodal | Multimodal scenarios (text, image, etc.) with AutoGen. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/9%20AutoGen%20-%20Multimodal.ipynb |
 
 ### New content (30 April 2025)
 
